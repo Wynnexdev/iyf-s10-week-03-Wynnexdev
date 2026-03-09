@@ -17,6 +17,15 @@ The project repository also documents the commands used during the process and i
 - GitHub
 - Bash / Command Line Interface
 
+## Project Structure
+iyf-s10-week-03-yourusername
+│
+├── my-project
+├── terminal-log.md
+├── new-project.sh
+├── README.md
+└── .gitignore
+
 ## Features
 - Terminal-based project setup without using graphical tools
 - Organized project directory structure
